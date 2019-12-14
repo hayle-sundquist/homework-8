@@ -1,0 +1,15 @@
+function setup(draw)
+create canvas(300,500);
+Background(220)
+circle(30,40,50)
+
+functuon draw
+background(22,112,191)
+console log(hi)
+sqaure
+background(220)
+(30,40,50)
+Function draw{
+background(220)
+textsize(32)
+text ('hello there!',10,30)
